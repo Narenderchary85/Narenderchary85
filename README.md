@@ -22,26 +22,4 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
----
-### 🎮 Adobe Suite:
-![Adobe After Effects](https://img.shields.io/badge/Adobe_After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
 
----
-### 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=srujan8404&show_icons=true&theme=dark)
-
-#### Srujan Dharma's GitHub Stats:
-- Total Stars Earned: **3**
-- Total Commits: **515**
-- Total PRs: **31**
-- Total Issues: **4**
-- Contributed to (last year): **7**
-
-#### Contributions:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=srujan8404&theme=dark)
-
-#### Most Used Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srujan8404&layout=compact&theme=dark)
