@@ -23,4 +23,7 @@
 #### Most Used Languages:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Narenderchary85&layout=compact&theme=dark)
 
+#### Achievements
+![Achievements](https://github.com/users/Narenderchary85/achievements/pull-shark)
+
 
