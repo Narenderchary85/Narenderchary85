@@ -27,5 +27,6 @@
 
 
 
-
+#### Achievements
+![trophy](https://github-profile-trophy.vercel.app/?username=Narenderchary85&theme=darkhub&row=1&column=6)
 
