@@ -26,3 +26,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Narenderchary85&layout=compact&theme=dark)
 
 
+
+#### Achievements
+![trophy](https://github-profile-trophy.vercel.app/?username=Narenderchary85&theme=darkhub&row=1&column=6)
+
