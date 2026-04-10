@@ -33,8 +33,10 @@
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Narenderchary85&layout=compact&theme=dark)
 
 
+### 🐍 My Contributions
 
-#### Achievements
-![trophy](https://github-profile-trophy.vercel.app/?username=Narenderchary85&theme=darkhub&row=1&column=6)
-
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Narenderchary85/Narenderchary85/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Narenderchary85/Narenderchary85/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Narenderchary85/Narenderchary85/output/github-contribution-grid-snake.svg">
+</picture>
