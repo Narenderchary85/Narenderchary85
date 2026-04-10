@@ -1,14 +1,9 @@
 name: Generate Snake Animation
 
 on:
-  # Run automatically every 24 hours
   schedule:
     - cron: "0 0 * * *" 
-  
-  # Allows you to manually run the job at any time
   workflow_dispatch:
-  
-  # Run on every push to the master/main branch
   push:
     branches:
     - main
@@ -16,11 +11,18 @@ on:
 
 jobs:
   generate:
+    # FIX 1: Explicitly grant this action permission to push code to your repo
+    permissions: 
+      contents: write
+
     runs-on: ubuntu-latest
     timeout-minutes: 10
     
+    # FIX 2: Silence the Node.js warning by forcing Node 24 compatibility
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+    
     steps:
-      # Generates the snake
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
@@ -29,7 +31,6 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # Pushes the generated svg to the 'output' branch
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
