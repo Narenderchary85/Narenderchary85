@@ -62,12 +62,12 @@
         <img src="https://skillicons.dev/icons?i=react" alt="icon" width="65" height="65" />
       <br>Native
        <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
+        <img src="https://cdn.simpleicons.org/github/white" width="65" height="65" alt="GitHub" />
       <br>Github
     </td>
           <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
-      <br>Rest API
+      <br>API
   </tr>
   <tr>
     <td align="center" width="96">
@@ -138,7 +138,6 @@
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="dart" />
-      <br>C
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="dart" />
