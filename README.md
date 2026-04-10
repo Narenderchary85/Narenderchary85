@@ -32,11 +32,26 @@
 #### Most Used Languages:
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Narenderchary85&layout=compact&theme=dark)
 
-
 ### 🐍 My Contributions
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Narenderchary85/Narenderchary85/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Narenderchary85/Narenderchary85/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Narenderchary85/Narenderchary85/output/github-contribution-grid-snake.svg">
 </picture>
+
+
+<table align="center" border="0" style="width: 100%; border: none; background-color: transparent; margin: 5%;">
+  <tr style="border: none; background-color: transparent;">
+    
+  <td width="50%" align="center" style="border: none; background-color: transparent;">
+      <h4>GitHub Stats:</h4>
+      <img src="https://raw.githubusercontent.com/Narenderchary85/Narenderchary85/main/profile-summary-card-output/default/3-stats.svg" alt="Stats">
+    </td>
+    
+  <td width="50%" align="center" style="border: none; background-color: transparent;">
+      <h4>📊 GitHub Activity</h4>
+      <img src="https://raw.githubusercontent.com/Narenderchary85/Narenderchary85/main/profile-summary-card-output/default/0-profile-details.svg" alt="Profile Details">
+    </td>
+
+  </tr>
+</table>
