@@ -1,4 +1,4 @@
-## Hi 👋, I'm Narender Chary
+## Hello 👋, I'm Narender Chary
 
 ### 📲 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narender-chary-1102a62ba) 
