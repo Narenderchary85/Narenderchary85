@@ -159,19 +159,3 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Narenderchary85/Narenderchary85/output/github-contribution-grid-snake.svg">
 </picture>
 
-
-<table align="center" border="0" style="width: 100%; border: none; background-color: transparent; margin: 5%;">
-  <tr style="border: none; background-color: transparent;">
-    
-  <td width="50%" align="center" style="border: none; background-color: transparent;">
-      <h4>GitHub Stats:</h4>
-      <img src="https://raw.githubusercontent.com/Narenderchary85/Narenderchary85/main/profile-summary-card-output/default/3-stats.svg" alt="Stats">
-    </td>
-    
-  <td width="50%" align="center" style="border: none; background-color: transparent;">
-      <h4>📊 GitHub Activity</h4>
-      <img src="https://raw.githubusercontent.com/Narenderchary85/Narenderchary85/main/profile-summary-card-output/default/0-profile-details.svg" alt="Profile Details">
-    </td>
-
-  </tr>
-</table>
